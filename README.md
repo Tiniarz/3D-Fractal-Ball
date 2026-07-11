@@ -1,4 +1,4 @@
-"""# Fractal Ball 3D with FPS Counter
+# Fractal Ball 3D with FPS Counter
 
 [![Made with HTML](https://img.shields.io/badge/Made%20with-HTML-orange.svg)](#)
 [![Built with Love](https://img.shields.io/badge/Built%20with-Love-red.svg)](#)
