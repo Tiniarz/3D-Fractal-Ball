@@ -24,12 +24,7 @@ The application is engineered strictly using native web standards to ensure univ
 *   **HyperText Markup Language (HTML5):** Structural layout and implementation of the canvas rendering context.
 *   **Cascading Style Sheets (CSS3):** Responsive viewport management, dark-mode user interface accents, and control panel positioning.
 *   **JavaScript (ES6+):** Core mathematical computation, matrix transformations, recursion logic, and animation frame loops via `requestAnimationFrame`.
-
-## Installation and Deployment
-
-Because the project relies exclusively on client-side native web technologies, no build steps, package installations, or local server environments are strictly required.
-
-    open index.html
+*   
 
 ## Usage and Navigation
 
