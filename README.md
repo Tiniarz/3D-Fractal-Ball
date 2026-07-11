@@ -28,11 +28,8 @@ The application is engineered strictly using native web standards to ensure univ
 ## Installation and Deployment
 
 Because the project relies exclusively on client-side native web technologies, no build steps, package installations, or local server environments are strictly required.
-    ```
-3.  Open the primary entry point file in any modern web browser:
-    ```bash
+
     open index.html
-    ```
 
 ## Usage and Navigation
 
